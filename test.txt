@@ -8,5 +8,5 @@ public static void main (String args[]){
 }
 
 
-git config --global user.email "719240226@qq.com"
-git config --global user.name "Laughing952"
+//git config --global user.email "719240226@qq.com"
+//git config --global user.name "Laughing952"
